@@ -97,3 +97,5 @@ footer a { color: inherit; }
   .hero p.lede { font-size: 1.1rem; }
   .app-card { flex-direction: column; }
 }
+
+.app-links { display: flex; flex-wrap: wrap; gap: 10px; margin: 0; }
